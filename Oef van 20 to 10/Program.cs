@@ -1,4 +1,4 @@
-﻿namespace Oefeningen_5
+﻿namespace Oef_van_20_to_10
 {
     internal class Program
     {
@@ -9,12 +9,7 @@
             {
                 Console.WriteLine(getal);
                 getal = getal - 2;
-            }while (getal >= 10);
-           
-            
-            
-
-            
+            } while (getal >= 10);
         }
     }
 }
