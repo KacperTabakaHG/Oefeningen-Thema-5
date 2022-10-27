@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef 5 Grootste getal", "Oef
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef 6", "Oef 6\Oef 6.csproj", "{28E3D577-C153-4ABE-AD2A-A32527455003}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef 7 Rechthoek", "Oef 7 Rechthoek\Oef 7 Rechthoek.csproj", "{CBA32D1A-A89F-4499-9E5A-A9DDCA917842}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{28E3D577-C153-4ABE-AD2A-A32527455003}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28E3D577-C153-4ABE-AD2A-A32527455003}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28E3D577-C153-4ABE-AD2A-A32527455003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBA32D1A-A89F-4499-9E5A-A9DDCA917842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA32D1A-A89F-4499-9E5A-A9DDCA917842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA32D1A-A89F-4499-9E5A-A9DDCA917842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA32D1A-A89F-4499-9E5A-A9DDCA917842}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
