@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef 2 tafel van 7", "Oef 2 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef 3 som", "Oef 3 som\Oef 3 som.csproj", "{9685ABAF-6169-4EAF-959F-DE66457543B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef 4", "Oef 4\Oef 4.csproj", "{3465EC39-7F5F-4363-B0FF-D937A09ABA91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9685ABAF-6169-4EAF-959F-DE66457543B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9685ABAF-6169-4EAF-959F-DE66457543B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9685ABAF-6169-4EAF-959F-DE66457543B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3465EC39-7F5F-4363-B0FF-D937A09ABA91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3465EC39-7F5F-4363-B0FF-D937A09ABA91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3465EC39-7F5F-4363-B0FF-D937A09ABA91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3465EC39-7F5F-4363-B0FF-D937A09ABA91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
