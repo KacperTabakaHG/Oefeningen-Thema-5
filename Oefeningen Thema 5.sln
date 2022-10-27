@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef 6", "Oef 6\Oef 6.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef 7 Rechthoek", "Oef 7 Rechthoek\Oef 7 Rechthoek.csproj", "{CBA32D1A-A89F-4499-9E5A-A9DDCA917842}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef 8 Vierkant", "Oefening 8 Vierkant\Oef 8 Vierkant.csproj", "{21ED4940-8EA3-4774-903D-5DCD73EB2D20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{CBA32D1A-A89F-4499-9E5A-A9DDCA917842}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBA32D1A-A89F-4499-9E5A-A9DDCA917842}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBA32D1A-A89F-4499-9E5A-A9DDCA917842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21ED4940-8EA3-4774-903D-5DCD73EB2D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21ED4940-8EA3-4774-903D-5DCD73EB2D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21ED4940-8EA3-4774-903D-5DCD73EB2D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21ED4940-8EA3-4774-903D-5DCD73EB2D20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
