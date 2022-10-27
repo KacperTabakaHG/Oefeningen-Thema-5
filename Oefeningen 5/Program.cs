@@ -4,7 +4,17 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int getal = 20;
+            do
+            {
+                Console.WriteLine(getal);
+                getal = getal - 2;
+            }while (getal >= 10);
+           
+            
+            
+
+            
         }
     }
 }
