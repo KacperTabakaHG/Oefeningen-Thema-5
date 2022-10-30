@@ -9,17 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oef 3 som", "Oef 3 som\Oef 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oef 4", "Oef 4\Oef 4.csproj", "{3465EC39-7F5F-4363-B0FF-D937A09ABA91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef 1 van 20 to 10", "Oef van 20 to 10\Oef 1 van 20 to 10.csproj", "{CB339F8C-FD33-48D3-B194-0D103EE14F4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oef 1 van 20 to 10", "Oef van 20 to 10\Oef 1 van 20 to 10.csproj", "{CB339F8C-FD33-48D3-B194-0D103EE14F4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef 5 Grootste getal", "Oef 5 Grootste getal\Oef 5 Grootste getal.csproj", "{A1E97E71-35A6-4503-BDAC-26EBFE6969CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oef 5 Grootste getal", "Oef 5 Grootste getal\Oef 5 Grootste getal.csproj", "{A1E97E71-35A6-4503-BDAC-26EBFE6969CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef 6", "Oef 6\Oef 6.csproj", "{28E3D577-C153-4ABE-AD2A-A32527455003}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oef 6", "Oef 6\Oef 6.csproj", "{28E3D577-C153-4ABE-AD2A-A32527455003}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef 7 Rechthoek", "Oef 7 Rechthoek\Oef 7 Rechthoek.csproj", "{CBA32D1A-A89F-4499-9E5A-A9DDCA917842}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oef 7 Rechthoek", "Oef 7 Rechthoek\Oef 7 Rechthoek.csproj", "{CBA32D1A-A89F-4499-9E5A-A9DDCA917842}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef 8 Vierkant", "Oefening 8 Vierkant\Oef 8 Vierkant.csproj", "{21ED4940-8EA3-4774-903D-5DCD73EB2D20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oef 8 Vierkant", "Oefening 8 Vierkant\Oef 8 Vierkant.csproj", "{21ED4940-8EA3-4774-903D-5DCD73EB2D20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef 9 Double", "Oef 9 Double\Oef 9 Double.csproj", "{082A7EE0-89CE-43C6-83DA-B137CA512BC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oef 9 Double", "Oef 9 Double\Oef 9 Double.csproj", "{082A7EE0-89CE-43C6-83DA-B137CA512BC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef 10 Reeks", "Oef 10 Reeks\Oef 10 Reeks.csproj", "{DF1AFC42-75BE-4320-BFF0-8F7735C56770}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{082A7EE0-89CE-43C6-83DA-B137CA512BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{082A7EE0-89CE-43C6-83DA-B137CA512BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{082A7EE0-89CE-43C6-83DA-B137CA512BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF1AFC42-75BE-4320-BFF0-8F7735C56770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF1AFC42-75BE-4320-BFF0-8F7735C56770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF1AFC42-75BE-4320-BFF0-8F7735C56770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF1AFC42-75BE-4320-BFF0-8F7735C56770}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
