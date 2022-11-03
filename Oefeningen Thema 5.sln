@@ -27,9 +27,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oef 11", "Oef 11\Oef 11.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oef 12 Aantal", "Oef 12\Oef 12 Aantal.csproj", "{ABB1E175-6C83-475D-8C01-CA6014FB0F8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef 13 Driehoek", "Oef 13 Driehoek\Oef 13 Driehoek.csproj", "{EB50FF73-A3C4-4148-B084-52ECB2122117}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oef 13 Driehoek", "Oef 13 Driehoek\Oef 13 Driehoek.csproj", "{EB50FF73-A3C4-4148-B084-52ECB2122117}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef 14 playlist", "Oef 14 playlist\Oef 14 playlist.csproj", "{B4B35551-561F-440C-BA54-58474E177ED8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oef 14 playlist", "Oef 14 playlist\Oef 14 playlist.csproj", "{B4B35551-561F-440C-BA54-58474E177ED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef 15", "Oef 15\Oef 15.csproj", "{C9AA56E8-D848-4BE3-A8D4-F58E7E6AAC06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef 16", "Oef 16\Oef 16.csproj", "{ADAD932B-AE94-4305-A520-B872D560B5DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{B4B35551-561F-440C-BA54-58474E177ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4B35551-561F-440C-BA54-58474E177ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4B35551-561F-440C-BA54-58474E177ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9AA56E8-D848-4BE3-A8D4-F58E7E6AAC06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9AA56E8-D848-4BE3-A8D4-F58E7E6AAC06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9AA56E8-D848-4BE3-A8D4-F58E7E6AAC06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9AA56E8-D848-4BE3-A8D4-F58E7E6AAC06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADAD932B-AE94-4305-A520-B872D560B5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAD932B-AE94-4305-A520-B872D560B5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADAD932B-AE94-4305-A520-B872D560B5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAD932B-AE94-4305-A520-B872D560B5DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
